@@ -7,6 +7,12 @@ public class Main {
 
         System.out.println(obj);
 
+        int a = 8_000_000;
+
+        System.out.println("Underscore are ignored:"+a);
+
+
+
 
     }
 }
