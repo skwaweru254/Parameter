@@ -26,6 +26,10 @@ public class Main {
 
         System.out.println("Input the previous first word :" +b);
 
+        float c = input.nextFloat();
+
+        System.out.println(c);
+
 
 
 
